@@ -9,3 +9,4 @@ Rappelez-vous le chemin, labyrinthe c'est dur, mais la sortie c'est sûr.
 ## Départ
 
 [![image F](../images/F.png)](https://github.com/ssagnane1/tp2-labyrinthe/blob/main/jeu-heros-sdc/F.md)
+

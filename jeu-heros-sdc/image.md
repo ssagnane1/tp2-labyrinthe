@@ -1,1 +1,1 @@
-![labyrinthe](tp2-labyrinthe/images/image.png)
+![labyrinthe](../images/image.png)

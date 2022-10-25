@@ -4,10 +4,10 @@ Dans cette ile vous avez deux choix retournez en arrière vers Malte ou avancez 
 
 Maldives
 
-[![image G](../images/maldives.jpg)](https://github.com/ssagnane1/tp2-labyrinthe/blob/main/jeu-heros-sdc/G.md)
+[![image G](../images/maldives.jpg)](https://github.com/ssagnane1/tp2-labyrinthe/blob/main/jeu-heros-sdc/Malte.md)
 
 Malte
 
-[![image A](../images/malte.jpg)](https://github.com/ssagnane1/tp2-labyrinthe/blob/main/jeu-heros-sdc/A.md)
+[![image A](../images/malte.jpg)](https://github.com/ssagnane1/tp2-labyrinthe/blob/main/jeu-heros-sdc/Malte.md)
 
 Christopher MERVILON

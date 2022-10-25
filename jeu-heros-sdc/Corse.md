@@ -7,7 +7,7 @@ Malte
 
 [![image A](../images/malte.jpg)](https://github.com/ssagnane1/tp2-labyrinthe/blob/main/jeu-heros-sdc/Malte.md)
 
-Cube
+Cuba
 
 [![image C](../images/cuba.jpg)](https://github.com/ssagnane1/tp2-labyrinthe/blob/main/jeu-heros-sdc/Cuba.md)
 

@@ -1,4 +1,4 @@
-## Vous êtes sur la I?
+## Vous êtes sur les Iles Féroé?
 
 Vous pouvez allez tout droit, ce chemin mène vers la G.
 

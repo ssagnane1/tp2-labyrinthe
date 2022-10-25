@@ -1,6 +1,6 @@
 # Îles Féroé
 
-Bravo à vous, vous êtes arrivés chez vous.
+Bravo à vous, vous êtes sortie du labyrinthe.
 
 ### <img src="../images/drapeau-feroes.png" width=20% height=20%>
 

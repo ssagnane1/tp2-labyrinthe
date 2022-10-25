@@ -1,7 +1,8 @@
-Bienvenue en Corse !!
+# Corse
 
-Une fois sur cette ile vous regardez autour de vous et apercevez deux bateaux prêt à partir pour deux iles devant vous. Un bateau peut vous enmener vers Malte et un autre vers Cuba. Lequel choisir ? Faite attention l'ile Game-Over est peut-être à un pas de vous.
+La Corse est une île située dans la mer Méditerranée et est une seule communauté territoriale française.
 
+La Corse, quatrième île de la Méditerranée par sa superficie, a fait partie de la République de Gênes pendant près de quatre siècles avant sa brève indépendance du 15 avril 1736 à décembre 1740.
 
 Malte
 

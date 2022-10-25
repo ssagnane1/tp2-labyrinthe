@@ -4,10 +4,10 @@ Une fois dans cette salle vous regardez autour de vous et apercevez deux nouvell
 
 
 
-[![image A](../images/A.png)](https://github.com/ssagnane1/tp2-labyrinthe/blob/main/jeu-heros-sdc/A.md)
+[![image A](../images/malte.jpg)](https://github.com/ssagnane1/tp2-labyrinthe/blob/main/jeu-heros-sdc/A.md)
 
 [![image C](../images/C.png)](https://github.com/ssagnane1/tp2-labyrinthe/blob/main/jeu-heros-sdc/C.md)
 
-[![image E](../images/E.png)](https://github.com/ssagnane1/tp2-labyrinthe/blob/main/jeu-heros-sdc/E.md)
+[![image E](../images/réunion.jpg)](https://github.com/ssagnane1/tp2-labyrinthe/blob/main/jeu-heros-sdc/E.md)
 
 Dylan DELPLACE

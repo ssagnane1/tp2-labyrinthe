@@ -13,7 +13,7 @@ Vous avez 3 d'autres pays à découvrir, choisissez votre prochaine destination 
 ### Destination
 Malte | Cuba | La Réunion 
 :----:|:--:|:---:
-<img src="../images/drapeau-malte.png" width=93% height=93% src=https://github.com/ssagnane1/tp2-labyrinthe/blob/main/jeu-heros-sdc/Malte.md> | <img src="../images/drapeau-cuba.png" width=93% height=93% src=https://github.com/ssagnane1/tp2-labyrinthe/blob/main/jeu-heros-sdc/Cuba.md> | <img src="../images/drapeau-la-reunion.png" width=93% height=93% src=https://github.com/ssagnane1/tp2-labyrinthe/blob/main/jeu-heros-sdc/Réunion.md>
+<a href=https://github.com/ssagnane1/tp2-labyrinthe/blob/main/jeu-heros-sdc/Malte.md> <img src="../images/drapeau-malte.png" width=93% height=93%> | <a href=https://github.com/ssagnane1/tp2-labyrinthe/blob/main/jeu-heros-sdc/Cuba.md> <img src="../images/drapeau-cuba.png" width=93% height=93%> | <a href=https://github.com/ssagnane1/tp2-labyrinthe/blob/main/jeu-heros-sdc/Malte.md> <img src="../images/drapeau-la-reunion.png" width=93% height=93%>
 
 
 Dylan DELPLACE

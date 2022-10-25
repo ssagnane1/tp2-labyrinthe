@@ -12,6 +12,6 @@ La Sicile
 
 L'ile Maurice
 
-[![image F](../images/maurice.jpg)](https://github.com/ssagnane1/tp2-labyrinthe/blob/main/jeu-heros-sdc/F.md)
+[![image F](../images/maurice.jpg)](https://github.com/ssagnane1/tp2-labyrinthe/blob/main/jeu-heros-sdc/Maurice.md)
 
 Christopher MERVILON

@@ -12,7 +12,7 @@ Vous venez de commencez alors vous pouvez aller que vers l'ile de la réuinion. 
 ### Destination
 Réunion | 
 :----:|
-<a href=https://github.com/ssagnane1/tp2-labyrinthe/blob/main/jeu-heros-sdc/Reunion.md> <img src="../images/drapeau-la-reunion.png" width=25% height=25%> | 
+<a href=https://github.com/ssagnane1/tp2-labyrinthe/blob/main/jeu-heros-sdc/Réunion.md> <img src="../images/drapeau-la-reunion.png" width=25% height=25%> | 
 
 
 

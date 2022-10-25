@@ -1,6 +1,6 @@
 Bienvenue à Malte!!
 
-Une fois dans cette salle vous vous apercevez que vous pouvez soit aller vers la salle D ou retourner en arrière vers la salle B. Si vous voulez avancer attention à la salle Game Over !
+Une fois sur cette salle vous vous apercevez que vous pouvez soit aller vers Haïti ou retourner en arrière vers la Corse. Si vous voulez avancer attention à la salle Game Over !
 
 
 

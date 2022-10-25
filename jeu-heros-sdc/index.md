@@ -10,5 +10,5 @@ Rappelez-vous le chemin, labyrinthe c'est dur, mais la sortie c'est sûr.
 
 L'ile de départ est l'ile Maurice !!
 
-[![image F](../images/maurice.jpg)](https://github.com/ssagnane1/tp2-labyrinthe/blob/main/jeu-heros-sdc/maurice.md)
+[![image F](../images/maurice.jpg)](https://github.com/ssagnane1/tp2-labyrinthe/blob/main/jeu-heros-sdc/Maurice.md)
 

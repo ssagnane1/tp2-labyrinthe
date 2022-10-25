@@ -1,4 +1,4 @@
-Bienvenue a l'ile Maurice !!
+Bienvenue à l'ile Maurice !!
 
 Vous venez de commencez alors vous pouvez aller que vers l'ile de la réuinion. Bonne chance ! 
 

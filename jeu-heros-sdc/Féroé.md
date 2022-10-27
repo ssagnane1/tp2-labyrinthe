@@ -10,6 +10,6 @@ Les Îles Féroé sont l'un des trois pays constitutifs du royaume de Danemark, 
 
 Ce territoire est composé de l'archipel subarctique des Féroé situé dans l'océan Atlantique Nord, non loin de la mer de Norvège, cette dernière baignant l'île de Fugloy uniquement par son cap nord-est. Les pointes septentrionales des îles de Streymoy et Eysturoy sont à peu près équidistantes de l'Écosse et de l'Islande. L'archipel a une superficie de 1 400 km2 et compte, en 2020, 52 110 habitants, appelés Féroïens. 
 
-[![Arrivée](../images/arrivee.PNG)](https://github.com/ssagnane1/tp2-labyrinthe/blob/main/jeu-heros-sdc/index.md)
+ <a href="https://github.com/ssagnane1/tp2-labyrinthe/blob/main/jeu-heros-sdc/index.md"> <img src="../images/arrivee.PNG" width=20% height=20%>
 
 SAGNANE Saïdou

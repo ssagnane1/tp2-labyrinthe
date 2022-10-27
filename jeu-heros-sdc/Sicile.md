@@ -8,7 +8,7 @@ La Sicile (en sicilien et en italien : Sicilia, /siˈtʃiːlja/) est la plus gra
 
 Depuis 1946, elle est l'une des cinq régions autonomes italiennes dénommée officiellement Regione Siciliana. 
 
-Une fois arrivée sur cette ile vous trouvez une porte cachée comme si quelqu'un voulait la garder secrète. Vous l'ouvrez ?
+Une fois arrivée sur cette ile vous trouverez une porte cachée comme si quelqu'un voulait la garder secrète. Vous l'ouvrez ?
 
 ### Destination
 Clé secrète |
